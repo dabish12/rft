@@ -1,0 +1,8 @@
+{
+  "rules": {
+    "drvu": {
+      ".read": true,
+      ".write": true
+    }
+  }
+}
